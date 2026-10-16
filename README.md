@@ -32,6 +32,7 @@ $$\lim_{\text{coffee} \to \infty} \text{bugs} = 0$$
 ## 🧭 My Journey
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'cScale0': '#6D28D9', 'cScale1': '#8B5CF6', 'cScale2': '#A78BFA', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff'}}}%%
 timeline
     title From Math to Code
     YTÜ : Mathematics student
